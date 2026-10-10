@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+ruangsiswa.sqlite3
+ruangsiswa.sqlite3-shm
+ruangsiswa.sqlite3-wal
